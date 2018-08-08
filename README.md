@@ -1,6 +1,6 @@
 # PathRouter
 
-Package pathrouter is forked from [httprouter](github.com/julienschmidt/httprouter).
+Package pathrouter is forked from [httprouter](https://github.com/julienschmidt/httprouter).
 
 ```go
 router := pathrouter.New()
